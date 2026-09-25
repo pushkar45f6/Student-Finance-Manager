@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Student Finance",
+    "slug": "student-finance",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
